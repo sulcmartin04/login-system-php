@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+#main-div {
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+    padding: 25px;
+}
+
+#button-div {
+    display: flex; 
+    justify-content: center; 
+    position: relative; 
+    top: 20px;
+}
+
+#register-button-div, #login-button-div {
+    display: flex; 
+    justify-content: center; 
+    position: relative; 
+    top: 50px;
+}
+
+#login-button {
+    width: 200px;
+}
+
+#home-div {
+    margin: 0 auto; 
+    text-align: center; 
+    position: relative; 
+    top: 150px;
+}
+
+#home-div-2 {
+    margin: 0 auto; 
+    text-align: center; 
+    position: relative; 
+    top: 170px;
+}
